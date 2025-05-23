@@ -1,0 +1,3 @@
+#define Hail_width 44
+#define Hail_height 44
+static unsigned char Hail_bits[] = {}
