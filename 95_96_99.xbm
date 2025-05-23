@@ -1,0 +1,3 @@
+#define Thunder_width 44
+#define Thunder_height 44
+static unsigned char Thunder_bits[] = {}
