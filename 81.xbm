@@ -1,0 +1,3 @@
+#define Drizzle5_width 44
+#define Drizzle5_height 44
+static unsigned char Drizzle5_bits[] = {}
